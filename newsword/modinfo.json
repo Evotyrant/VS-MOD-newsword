@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "newsword",
+  "name": "New Sword",
+  "authors": [
+    "Evotyrant"
+  ],
+  "description": "adds a new sword",
+  "version": "0.0.1"
+}
